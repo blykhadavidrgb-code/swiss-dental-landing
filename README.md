@@ -2,6 +2,14 @@
 
 Лендінг події на Цюрихському озері (12.09.2026), зверстаний за макетом Figma.
 
+## 🔗 Подивитися онлайн
+- **Німецька версія (DE):** https://blykhadavidrgb-code.github.io/swiss-dental-landing/
+- **Англійська версія (EN):** https://blykhadavidrgb-code.github.io/swiss-dental-landing/en/
+
+Сайт публікується через GitHub Pages з гілки `gh-pages`, тому оновлення треба пушити і в неї.
+
+## Структура
+
 - `index.html` — німецька версія (DE)
 - `en/index.html` — англійська версія (EN)
 - `css/style.css`, `js/main.js` — спільні стилі та скрипт (без фреймворків і збірки)
