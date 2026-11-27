@@ -180,7 +180,7 @@ b { font-weight: 500; }
 .hero__photo--k { width: 361.617px; height: 505.337px; margin-right: -150px; overflow: hidden; }
 .hero__photo--k img { position: absolute; top: 0; left: -.38%; width: 106.28%; height: 100.01%; max-width: none; }
 .hero__photo--s { width: 435px; height: 528px; }
-.hero__photo--s img { width: 100%; height: 100%; object-fit: contain; object-position: 75% 100%; }
+.hero__photo--s img { width: 100%; height: 100%; max-width: none; object-fit: fill; } /* як у макеті: фото розтягнуте в рамку 435×528 */
 .hero__shadow { position: absolute; left: 193.47px; top: 217px; width: 142.5px; height: 345px; max-width: none; }
 .bubble {
   position: absolute; z-index: 2;
